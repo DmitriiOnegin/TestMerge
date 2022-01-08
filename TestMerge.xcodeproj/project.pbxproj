@@ -14,6 +14,7 @@
 		199D476927899BFA00F26949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 199D476827899BFA00F26949 /* Assets.xcassets */; };
 		199D476C27899BFA00F26949 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 199D476A27899BFA00F26949 /* LaunchScreen.storyboard */; };
 		199D477427899E5400F26949 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199D477327899E5400F26949 /* TabBarViewController.swift */; };
+		199D47782789A37900F26949 /* TabBar.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 199D47772789A37900F26949 /* TabBar.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		199D476B27899BFA00F26949 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		199D476D27899BFA00F26949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		199D477327899E5400F26949 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		199D47772789A37900F26949 /* TabBar.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TabBar.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				199D476327899BF700F26949 /* ViewController.swift */,
 				199D477327899E5400F26949 /* TabBarViewController.swift */,
 				199D476527899BF700F26949 /* Main.storyboard */,
+				199D47772789A37900F26949 /* TabBar.storyboard */,
 				199D476827899BFA00F26949 /* Assets.xcassets */,
 				199D476A27899BFA00F26949 /* LaunchScreen.storyboard */,
 				199D476D27899BFA00F26949 /* Info.plist */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				199D47782789A37900F26949 /* TabBar.storyboard in Resources */,
 				199D476C27899BFA00F26949 /* LaunchScreen.storyboard in Resources */,
 				199D476927899BFA00F26949 /* Assets.xcassets in Resources */,
 				199D476727899BF700F26949 /* Main.storyboard in Resources */,
