@@ -14,6 +14,7 @@
 		199D476927899BFA00F26949 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 199D476827899BFA00F26949 /* Assets.xcassets */; };
 		199D476C27899BFA00F26949 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 199D476A27899BFA00F26949 /* LaunchScreen.storyboard */; };
 		199D477427899E5400F26949 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199D477327899E5400F26949 /* TabBarViewController.swift */; };
+		199D477627899EAF00F26949 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199D477527899EAF00F26949 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		199D476B27899BFA00F26949 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		199D476D27899BFA00F26949 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		199D477327899E5400F26949 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		199D477527899EAF00F26949 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				199D476127899BF700F26949 /* SceneDelegate.swift */,
 				199D476327899BF700F26949 /* ViewController.swift */,
 				199D477327899E5400F26949 /* TabBarViewController.swift */,
+				199D477527899EAF00F26949 /* SettingsViewController.swift */,
 				199D476527899BF700F26949 /* Main.storyboard */,
 				199D476827899BFA00F26949 /* Assets.xcassets */,
 				199D476A27899BFA00F26949 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				199D476427899BF700F26949 /* ViewController.swift in Sources */,
 				199D476027899BF700F26949 /* AppDelegate.swift in Sources */,
 				199D476227899BF700F26949 /* SceneDelegate.swift in Sources */,
+				199D477627899EAF00F26949 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
